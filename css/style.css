@@ -5,10 +5,10 @@
 }
 
 body {
-	width: 90%;
+	width: 1200px;
 	margin: auto;
 	font-family: 'Montserrat', sans-serif;
-	background-image: url("/img/default-pattern.png");
+	background-image: url("../img/default-pattern.png");
 }
 
 .container:after {
@@ -38,7 +38,7 @@ body {
 }
 
 #wrap header .custom-header {
-	background-image: url(/img/default-header.jpg);
+	background-image: url(../img/default-header.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
