@@ -5,10 +5,11 @@
 }
 
 body {
-	width: 1200px;
+	width: 1300px;
 	margin: auto;
 	font-family: 'Montserrat', sans-serif;
 	background-image: url("../img/default-pattern.png");
+	height: 100vh;
 }
 
 .container:after {
